@@ -15,3 +15,6 @@ Microphone or audio input device
 **Installation:**
 To install the required Python libraries, use pip
 pip install SpeechRecognition
+
+![Screenshot (63)](https://github.com/user-attachments/assets/151ce7c5-dbd5-4f17-b890-8c7d5d1764f1)
+
