@@ -1,4 +1,4 @@
-**Speech-to-Text with SpeechRecognition**
+**Speech-to-Text with Speech Recognition**
 This Python project demonstrates how to convert speech into text using the Google Web Speech API via the speech_recognition library. It listens to the microphone input, processes the audio, and outputs the transcribed text.
 
 **Features:**
